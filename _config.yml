@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            rvirmoors
+tagline:          'music computing research & design'
+description:      'Interactive music researcher/designer. I work with tempo, dynamic processes, electric guitar.'
+#url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Grigore Burloiu'
+  url:            https://github.com/RVirmoors
+
+paginate:         5
+
+gems:             [jekyll-paginate]
+
+# Custom vars
+version:          2.1.0
+
+#github:
+#  repo:           https://github.com/poole/hyde
