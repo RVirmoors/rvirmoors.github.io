@@ -9,7 +9,7 @@ permalink:        pretty
 title:            rvirmoors
 tagline:          'music computing research & design'
 description:      'Interactive music researcher/designer. Synchronisation, dynamic processes, interaction design, electric guitar.'
-#url:              http://hyde.getpoole.com
+url:              http://rvirmoors.github.io
 baseurl:          /
 
 author:
