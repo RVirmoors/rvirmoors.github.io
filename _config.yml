@@ -10,7 +10,7 @@ title:            rvirmoors
 tagline:          'music computing research & design'
 description:      'Interactive music researcher/designer. Synchronisation, dynamic processes, interaction design, electric guitar.'
 url:              https://rvirmoors.github.io
-baseurl:          "/"
+baseurl:          /
 
 author:
   name:           'Grigore Burloiu'
