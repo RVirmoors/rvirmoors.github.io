@@ -9,9 +9,8 @@ permalink:        pretty
 title:            rvirmoors
 tagline:          'music computing research & design'
 description:      'Interactive music researcher/designer. Synchronisation, dynamic processes, interaction design, electric guitar.'
-url:              http://rvirmoors.github.io
+url:              https://rvirmoors.github.io
 baseurl:          /
-root: /
 
 author:
   name:           'Grigore Burloiu'
