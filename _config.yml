@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge #pygments
 
 # Permalinks
 permalink:        pretty
@@ -11,6 +11,7 @@ tagline:          'music computing research & design'
 description:      'Interactive music researcher/designer. Synchronisation, dynamic processes, interaction design, electric guitar.'
 url:              http://rvirmoors.github.io
 baseurl:          /
+root: /
 
 author:
   name:           'Grigore Burloiu'
