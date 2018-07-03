@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            rvirmoors
 tagline:          'Grigore Burloiu // Interactive music research/design. Synchronisation, dynamic processes, interaction design, electric guitar.'
-description:      'dynamic music <a href="">.</a>'
+description:      'dynamic music <a href="/dynamic/">.</a>'
 url:              https://rvirmoors.github.io
 baseurl:          /
 
