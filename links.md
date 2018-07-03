@@ -4,7 +4,7 @@ title: links
 order: 99
 ---
 
-[Folks](#fol) I've met over the years whom I love and admire. Books and movies [I've seen](#rev). And some [podcasts](#pod) I listen to.
+[Folks](#fol) I've met over the years whom I love and admire. Books and movies [I've seen](#rev). And my list of cherished [podcasts](#pod).
 
 ### <a name="pod"></a>Podcasts
 bla
