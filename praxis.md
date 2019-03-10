@@ -1,6 +1,6 @@
 ---
 layout: page
-title: work
+title: praxis
 ---
 
 2017 - Andreea Ciobica solo show
