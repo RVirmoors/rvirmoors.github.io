@@ -27,3 +27,5 @@ found, lack of guidance and all that, but the brunt surely lies with some inferi
 still carry with me (after all, look at how long it's taking me to start a website) which,
 coupled with heavy narcissism (look at what I'm starting it with) means I often commit to the grandest
 projects, which I complete formally but don't fully take responsibility for.
+
+Well now I'm a grown-up, so maybe this time it'll be different.
