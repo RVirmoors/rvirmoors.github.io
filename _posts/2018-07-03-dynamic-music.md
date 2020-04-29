@@ -5,7 +5,7 @@ title: Dynamic music?
 
 It's one of those things that are both obvious and elusive: of course music is inherently interactive and
 perceptually different each time it appears. It's so self-evident to us that we often overlook it. Meanwhile,
-any dynamics in computers have to be explicitly programmed, which means the representation of dynamics in
+any dynamics in computers have to be explicitly programmed, which means that representation of dynamics in
 computer music is vital.
 
 In my [PhD thesis](https://www.academia.edu/29340306/Dynamic_Music_Representations_for_Real-Time_Performance)
