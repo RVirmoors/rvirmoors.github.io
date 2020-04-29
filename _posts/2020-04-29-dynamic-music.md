@@ -12,11 +12,18 @@ before or since. And the theme of adaptive music interaction, has been close to 
 
 And at the end I was left with the odd feeling that many get post-graduation, of total depletion yet
 wishing I could've stayed longer. My academic ambitions fulfilled, I decided to go back home and,
-I guess, apply my new superpowers in the real world. Or something.
+I guess, apply my new superpowers in the "real world". Or something.
 
-Which is why I didn't even try to present my work at a conference. Now, it may not be the most
-groundbreaking music tech ever, but back in 2010 adaptive improv systems using neural networks
+Which is why I didn't even try to present my work at a conference or share it online.
+Now, it may not be the most groundbreaking music tech ever,
+but back in 2010 adaptive improv systems using neural networks
 and concatenative synthesis didn't grow on trees like they do today. After submitting my final work,
 text and software, I promptly lost it forever. I don't remember if I deleted it on purpose or it got
 misplaced, fact is it's all gone and the school also removed it from their records.
 
+Rereading that draft I quickly went from pleasant reminiscing to some ugly bitterness, scolding myself
+for not doing justice to this project. Wasted potential, huh? I guess there's plenty of blame to be
+found, lack of guidance etc, but the brunt surely lies with some sort of inferiority complex that I
+still carry with me (after all, look at how long it's taking me to start a personal website) which,
+coupled with heavy narcissism (look at what I'm starting it with) means I often commit to the grandest
+projects, which I complete formally but don't fully take responsibility for.
