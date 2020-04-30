@@ -7,20 +7,21 @@ GET: [GitHub](https://github.com/RVirmoors/simplemsptorch-)
 
 My current project entails working with ML models and real-time audio,
 so when I discovered the [C++ frontend](https://pytorch.org/tutorials/advanced/cpp_frontend.html)
-to PyTorch my first instinct was to combine it with the [Max SDK](https://cycling74.com/downloads/sdk/).
+to PyTorch my first instinct was to combine it with Cycling74's [Max SDK](https://cycling74.com/downloads/sdk/).
 
 [Installing LibTorch](https://pytorch.org/cppdocs/installing.html) is easy enough,
 and compiling a test project in Visual Studio is just a matter of including the right folders
-and linking the .lib files[^1]. So, you would think that doing that to a Max SDK example would be
+and linking the .lib files[^1]. So, you would think that applying this to a Max SDK example would be
 easy enough, right? Not so fast!
 
-First, you need to have the project compile as C++ code (obviously). Then, and this took me
-two nights to figure out, you need to include "torch.h" **before** Max's own headers ("ext.h" et al).
+First, you need to set the project to compile as C++ code (obviously). Then, and this took me
+two nights to figure out, you also need to include "torch.h" **before** Max's own headers ("ext.h" et al)
+and not after.
 
 Anyway, it's now on [GitHub](https://github.com/RVirmoors/simplemsptorch-) in two flavours: one is
 the standard C example from the SDK, and the other is the C++ bridge that I regularly use.
 
-Now, should you use these for development? Probably not, unless you're some LibTorch AND Max SDK wizard
+Now, should you use these for development? Probably not, unless you're some LibTorch *and* Max SDK wizard
 (in which case, what are you doing reading this? I should be learning from you!). So far I've only
 encountered one other instance of LibTorch being used with Max, by
 [Philippe Esling &co @ IRCAM](https://github.com/acids-ircam/flow_synthesizer/)[^2]. What I intend to do
