@@ -24,8 +24,8 @@ Now, should you use these for development? Probably not, unless you're some LibT
 (in which case, what are you doing reading this? I should be learning from you!). So far I've only
 encountered one other instance of LibTorch being used with Max, by
 [Philippe Esling &co @ IRCAM](https://github.com/acids-ircam/flow_synthesizer/)[^1]. What I intend to do
-is design & train my model in good old Python, and then load it into a Max external. And the next step
-would be to do some online training in Max, but we're already getting ahead of ourselves.
+is design & train my model in good ol' Python, and then load it into a Max external. And the next step
+would be doing some online training in Max, but we're already getting ahead of ourselves.
 
 
 [^1]: They too are still using standard PyTorch for main R&D though.
