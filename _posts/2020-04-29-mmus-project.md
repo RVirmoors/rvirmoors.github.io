@@ -21,9 +21,13 @@ and concatenative synthesis didn't grow on trees like they do today. After submi
 text and software, I promptly lost it forever. I don't remember if I deleted it on purpose or it got
 misplaced, fact is it's all gone and the school also removed it from their records.
 
+That of course leaves me with a whole bunch of feelings that are probably best discussed elsewhere.
+
+{% comment %}
 Going through that document I quickly went from pleasant reminiscing to some ugly bitterness, scolding myself
 for not doing justice to this project. Wasted potential, huh? I guess there's plenty of blame to be
 found, lack of guidance and all that, but the brunt surely lies with some inferiority complex that I
 still carry with me (after all, look at how long it's taking me to start this website) which,
 coupled with heavy narcissism (look at what I'm starting it with) means I often commit to the grandest
 projects, which I complete formally but don't fully take responsibility for.
+{% endcomment %}

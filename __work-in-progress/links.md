@@ -4,11 +4,9 @@ title: links
 order: 99
 ---
 
-The requisite [profiles](#me) personal and professional. [Folks](#fol) I've met over the years all worthy of laudation. And my list of cherished [podcasts](#pod).
-
-### <a name="me"></a>Me
-CINETic, Goodreads, Criticker.
-### <a name="fol"></a>Folks
-eheh
-### <a name="pod"></a>Podcasts
-bla
+I work at [CINETic](https://cinetic.arts.ro/en/echipa/grigore-burloiu/) in Bucharest.
+I used to lose everything, now I dump it all on [Github](https://github.com/RVirmoors/).
+My papers are [here](http://revista22.academia.edu/GrigoreBurloiu).
+When I watch movies, I rate them on [Criticker](https://www.criticker.com/profile/prowler/).
+I sometimes remember I'm on [Twitter](https://twitter.com/growlerpig).
+I played guitar in [PANDREA](https://pandrea.bandcamp.com/). One day we'll be back.
