@@ -21,8 +21,6 @@ and concatenative synthesis didn't grow on trees like they do today. After submi
 text and software, I promptly lost it forever. I don't remember if I deleted it on purpose or it got
 misplaced, fact is it's all gone and the school also removed it from their records.
 
-That of course leaves me with a whole bunch of feelings that are probably best discussed elsewhere.
-
 {% comment %}
 Going through that document I quickly went from pleasant reminiscing to some ugly bitterness, scolding myself
 for not doing justice to this project. Wasted potential, huh? I guess there's plenty of blame to be
