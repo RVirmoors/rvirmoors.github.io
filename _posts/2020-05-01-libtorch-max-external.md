@@ -29,4 +29,5 @@ would be doing some online training in Max, but we're already getting ahead of o
 
 [^1]: Also see [this](https://medium.com/@boonboontongbuasirilai/building-pytorch-c-integration-libtorch-with-ms-visual-studio-2017-44281f9921ea)
 Medium post.
+
 [^2]: They too are still using standard PyTorch for main R&D though.
