@@ -27,7 +27,6 @@ encountered one other instance of LibTorch being used with Max, by
 is design & train my model in good ol' Python, and then load it into a Max external. And the next step
 would be doing some online training in Max, but we're already getting ahead of ourselves.
 
-[^1]: Also see [this](https://medium.com/@boonboontongbuasirilai/building-pytorch-c-integration-libtorch-with-ms-visual-studio-2017-44281f9921ea)
-Medium post.
+[^1]: Also see [this](https://medium.com/@boonboontongbuasirilai/building-pytorch-c-integration-libtorch-with-ms-visual-studio-2017-44281f9921ea) Medium post.
 
 [^2]: They too are still using standard PyTorch for main R&D though.
