@@ -21,8 +21,11 @@ Anyway, it's now on [GitHub](https://github.com/RVirmoors/simplemsptorch-) in tw
 the standard C example from the SDK, and the other is the C++ bridge that I regularly use.
 
 Now, should you use these for development? Probably not, unless you're some LibTorch AND Max SDK wizard
-(in which case, what are you doing reading this? I should be learning from you!). As far as I can
-google, the only people so far who have used LibTorch with Max are [Philippe Esling &co @ IRCAM](https://github.com/acids-ircam/flow_synthesizer/)[^1]
+(in which case, what are you doing reading this? I should be learning from you!). So far I've only
+encountered one other instance of LibTorch being used with Max, by
+[Philippe Esling &co @ IRCAM](https://github.com/acids-ircam/flow_synthesizer/)[^1]. What I intend to do
+is design & train my model in good old Python, and then load it into a Max external. And the next step
+would be to do some online training in Max, but we're already getting ahead of ourselves.
 
 
 [^1]: They too are still using standard PyTorch for main R&D though.
