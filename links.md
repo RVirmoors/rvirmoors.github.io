@@ -8,7 +8,9 @@ I work at [CINETic](https://cinetic.arts.ro/en/echipa/grigore-burloiu/) in Bucha
 
 I used to lose everything, now I dump it all on [GitHub](https://github.com/RVirmoors/).
 
-My papers are [here](http://revista22.academia.edu/GrigoreBurloiu).
+My papers are [here](http://revista22.academia.edu/GrigoreBurloiu). (TODO get off academia.edu!)
+
+Books I read are on [Goodreads](https://www.goodreads.com/growlerpig).
 
 When I watch movies, I rate them on [Criticker](https://www.criticker.com/profile/prowler/).
 
