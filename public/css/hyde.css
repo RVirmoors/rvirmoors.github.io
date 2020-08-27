@@ -42,7 +42,7 @@
 }
 
 html {
-  font-family: "sansB", Avenir, "Cabin", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
