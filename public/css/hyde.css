@@ -38,7 +38,7 @@
 
 @font-face {
   font-family: "sansB";
-  src: url("../fonts/SANSB___.ttf");
+  src: url("../fonts/SANSB___.TTF");
 }
 
 html {
@@ -46,12 +46,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 100%;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 105%;
   }
 }
 
@@ -90,7 +90,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "neuesBauen", "Josefin Sans", "Philosopher", sans-serif;
-  font-size: 3.25rem;
+  font-size: 2.5rem;
 }
 
 /* Sidebar nav */
