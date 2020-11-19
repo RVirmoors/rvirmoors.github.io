@@ -26,8 +26,8 @@ Oh, and just to bury the lede. This summer I did manage to build a working proto
 CSMC+MuMe [Joint Conference on AI Music Creativity](https://boblsturm.github.io/aimusic2020/programme.html). I'd been meaning to blog
 about the project on here, but it was a very busy summer, followed by an even crazier semester. So it goes. The paper is
 [here](https://boblsturm.github.io/aimusic2020/papers/CSMC__MuMe_2020_paper_30.pdf), and I also submitted
-a summary as an [ISMIR LBD](https://program.ismir2020.net/lbd_422.html). You can get an idea of the work from my slideshow presentation:
+a summary as an [ISMIR LBD](https://program.ismir2020.net/lbd_422.html). You can get an idea of the work from my super-exciting slideshow presentation:
 
 <iframe width="100%" src="https://www.youtube.com/embed/0EsTGTkdmtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I care a lot about this project and I do mean to keep developing and documenting it. But right now my focus is on completing the semester and staying sane.
+I care a lot about this project and I do mean to keep developing and properly documenting it. But right now my focus is on completing the semester and staying sane.
