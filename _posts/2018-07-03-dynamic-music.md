@@ -8,7 +8,7 @@ perceptually different each time it appears. It's so self-evident to us that we 
 any dynamics in computers have to be explicitly programmed, which means that representation of dynamics in
 computer music is vital.
 
-In my [PhD thesis](https://www.academia.edu/29340306/Dynamic_Music_Representations_for_Real-Time_Performance)
+In my [PhD thesis](https://hal.archives-ouvertes.fr/tel-01412402)
 I tried to use dynamicness as a theme to tie together different contributions to computer music. Did I
 do it justice? Hell no. Is it something still worth bothering about? I think so.
 
