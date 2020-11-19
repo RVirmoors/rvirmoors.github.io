@@ -32,5 +32,5 @@ would be doing some online training in Max, but we're already getting ahead of o
 
 [^2]: They too are still using standard PyTorch for main R&D though.
 
-[^3] (edit Nov '20): I discovered the official C++ Development Kit for Max, called [Min](https://cycling74.github.io/min-devkit/). Don't see why it wouldn't work
+[^3]: (edit Nov '20) I discovered the official C++ Development Kit for Max, called [Min](https://cycling74.github.io/min-devkit/). Don't see why it wouldn't work
 with LibTorch, too: one more for the TODO pile then.
