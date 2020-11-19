@@ -8,7 +8,7 @@ So why are sites like Academia.edu and ResearchGate still a thing?
 
 Granted, I'm way late on the delete-academia train. There have been brilliant posts like
 [this](https://www.forbes.com/sites/drsarahbond/2017/01/23/dear-scholars-delete-your-account-at-academia-edu/),
-[this](http://numismatics.org/pocketchange/open-access-academia-edu-and-why-im-all-in-on-zenodo-org/),
+[this](http://numismatics.org/pocketchange/open-access-academia-edu-and-why-im-all-in-on-zenodo-org/), and
 [this](https://icietla.hypotheses.org/114) floating around for years now and, at least in my field, I rarely see people use
 these commercial gatekeeper repos.
 
@@ -20,5 +20,5 @@ are great options, and as it happens, some of my papers were already on both sit
 snappier integration with [ORCID](https://orcid.org), the international research infrastructure everyone should probably be a part of.
 
 There we go, my papers are now on [HAL](https://cv.archives-ouvertes.fr/grigore-burloiu), and at my
-[ORCID profile page](https://orcid.org/0000-0002-9059-9621).
+[ORCID profile page](https://orcid.org/0000-0002-9059-9621). I finally feel like a real grown-up.
 
