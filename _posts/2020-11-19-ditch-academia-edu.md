@@ -3,8 +3,8 @@ layout: post
 title: Ditch Academia.edu!
 ---
 
-You know that scholarly friend you have who's way into for-profit companies circulating her work? Wait, there's no such person?
-So why are sites like Academia.edu and ResearchGate still a thing?
+You know that scholarly friend you have who's way into for-profit companies circulating their work? Wait, there's no such person?
+So how come sites like Academia.edu and ResearchGate still a thing?
 
 Granted, I'm way late on the delete-academia train. There have been brilliant posts like
 [this](https://www.forbes.com/sites/drsarahbond/2017/01/23/dear-scholars-delete-your-account-at-academia-edu/),
@@ -28,6 +28,6 @@ about the project on here, but it was a very busy summer, followed by an even cr
 [here](https://boblsturm.github.io/aimusic2020/papers/CSMC__MuMe_2020_paper_30.pdf), and I also submitted
 a summary as an [ISMIR LBD](https://program.ismir2020.net/lbd_422.html). You can get an idea of the work from my slideshow presentation:
 
-<iframe width="1903" height="797" src="https://www.youtube.com/embed/0EsTGTkdmtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/0EsTGTkdmtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I care a lot about this project and I do mean to keep developing and documenting it. But right now my focus is on completing the semester and staying sane.
