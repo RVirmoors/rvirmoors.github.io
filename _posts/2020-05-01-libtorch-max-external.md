@@ -19,7 +19,7 @@ two nights to figure out, you also need to include "torch.h" **before** Max's ow
 and not after.
 
 Anyway, it's now on [GitHub](https://github.com/RVirmoors/simplemsptorch-) in two flavours: one is
-the standard C example from the SDK, and the other is the C++ bridge that I regularly use.
+the standard C example from the SDK, and the other is the C++ bridge that I regularly use.[^3]
 
 Now, should you use these for development? Probably not, unless you're some LibTorch *and* Max SDK wizard
 (in which case, what are you doing reading this? I should be learning from you!). So far I've only
@@ -31,3 +31,6 @@ would be doing some online training in Max, but we're already getting ahead of o
 [^1]: Also see [this](https://medium.com/@boonboontongbuasirilai/building-pytorch-c-integration-libtorch-with-ms-visual-studio-2017-44281f9921ea) Medium post.
 
 [^2]: They too are still using standard PyTorch for main R&D though.
+
+[^3] (edit Nov '20): I discovered the official C++ Development Kit for Max, called [Min](https://cycling74.github.io/min-devkit/). Don't see why it wouldn't work
+with LibTorch, too: one more for the TODO pile then.
