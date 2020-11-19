@@ -9,7 +9,7 @@ any dynamics in computers have to be explicitly programmed, which means that rep
 computer music is vital.
 
 In my [PhD thesis](https://www.academia.edu/29340306/Dynamic_Music_Representations_for_Real-Time_Performance)
-I clumsily used dynamicness as a theme to tie together different contributions to computer music. Did I
-do it justice? Hell no. Is it something still worth bothering about? I think so, and that's why we're here.
+I tried to use dynamicness as a theme to tie together different contributions to computer music. Did I
+do it justice? Hell no. Is it something still worth bothering about? I think so.
 
 (to be continued.)
