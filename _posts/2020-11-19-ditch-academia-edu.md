@@ -13,7 +13,7 @@ Granted, I'm way late on the delete-academia train. There have been brilliant po
 those commercial gatekeeper repos.
 
 So the time finally came to get off my ass, delete my papers from Academia, and move them to an open archive. At this rate, in 10 years
-maybe I'll apply for an arXiv.org account!
+maybe I'll open an arXiv.org account!
 
 Now, where should you upload your work? [HAL](https://hal.archives-ouvertes.fr/) (CNRS France) and [Zenodo](https://zenodo.org/) (CERN Swiss)
 are great options, and as it happens, some of my papers were already on both sites. I went with HAL simply due to the
@@ -28,6 +28,6 @@ about the project on here, but it was a very busy summer, followed by an even cr
 [here](https://boblsturm.github.io/aimusic2020/papers/CSMC__MuMe_2020_paper_30.pdf), and I also submitted
 a summary as an [ISMIR LBD](https://program.ismir2020.net/lbd_422.html). You can get an idea of the work from my slideshow presentation:
 
-<iframe src="https://www.youtube.com/embed/0EsTGTkdmtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/0EsTGTkdmtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I care a lot about this project and I do mean to keep developing and documenting it. But right now my focus is on completing the semester and staying sane.
