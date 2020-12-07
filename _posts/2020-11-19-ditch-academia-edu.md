@@ -19,7 +19,7 @@ Now, where should you upload your work? [HAL](https://hal.archives-ouvertes.fr/)
 are great options, and as it happens, some of my papers were already on both sites. I went with HAL simply due to the
 snappier integration with [ORCID](https://orcid.org), the international research infrastructure everyone should probably be a part of.
 
-There we go, my papers are now on [HAL](https://cv.archives-ouvertes.fr/grigore-burloiu), and at my
+There we go, my papers are now on [HAL](https://cv.archives-ouvertes.fr/grigore-burloiu),[^1] and at my
 [ORCID profile page](https://orcid.org/0000-0002-9059-9621). I feel like a real grown-up.
 
 Oh, and just to bury the lede. This summer I did manage to build a working prototype and publish my work, most notably at the brilliant
@@ -31,3 +31,6 @@ a summary as an [ISMIR LBD](https://program.ismir2020.net/lbd_422.html). You can
 <iframe width="100%" src="https://www.youtube.com/embed/0EsTGTkdmtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I care a lot about this project and I do mean to keep developing and properly documenting it. But right now my focus is on completing the semester and staying sane.
+
+[^1]: (edit Dec '20) Actually, it ended up taking a couple weeks for my added papers to be approved by HAL. So if you're looking for a fast response,
+Zenodo might suit you better.
