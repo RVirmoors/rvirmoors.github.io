@@ -231,8 +231,6 @@ And that's it! I'll update this post with a nicer demo vid someday, but for now
 twitter the minute I got it to work.
 
 
-[^1]: despite what the repo suggests, VS2019 is apparently not supported, due to TF1.4's reliance on CUDA 10.1 ...
-oh the joy of sorting through outdated dependencies.
+[^1]: despite what the repo suggests, VS2019 is apparently not supported, due to TF1.4's reliance on CUDA 10.1 ... oh the joy of sorting through outdated dependencies.
 
-[^2]: Windows only. Mac users can probably do a similar trick using Syphon. Not sure what would work in Linux,
-let me know if you have pointers.
+[^2]: Windows only. Mac users can probably do a similar trick using Syphon. Not sure what would work in Linux, let me know if you have pointers.
