@@ -221,7 +221,7 @@ Here's a Max patch that does it all: on the left, sending `/psi` directly. In th
 the mouse as a toy 2D input into Wekinator. And on the right, sending the Gaussian random values for
 Wekinator outputs.
 
-![controlling Wekinator thru Max](images/stylegan/max-input.png?raw=true)
+![controlling Wekinator thru Max](images/stylegan/max-input.jpg?raw=true)
 
 [Here](https://github.com/RVirmoors/cc1/blob/master/ml/stylegan/input.maxpat) is the patch. Again, you can
 accomplish the same thing in various software, I just find Max the easiest.
