@@ -59,7 +59,7 @@ Then, if you also have VS2019 installed, you need to edit
 `stylegan2-ada\dnnlib\tflib\custom_ops.py` and change the corresponding line to point directly to
 your VS2017 folder. Here, for VS Community:
 
-![editing custom_ops.py](images/stylegan/vs2017path.png?raw=true)
+![editing custom_ops.py](/images/stylegan/vs2017path.png?raw=true)
 
 Next, download your saved .pkl file (if any) into a subfolder like `stylegan2-ada/models`. Finally, you can
 try out some basic image generation and it should work:
@@ -212,7 +212,7 @@ Remember how we sampled the space in our python script?
         z = rnd.randn(1, 512)
 ```
 The final `n` in `randn` means we're sampling from a *Normal* aka Gaussian space, which is how the *z* latent
-space is configured in a StyleGAN network. Meanwhile, pressing `randomize` in Wekinator generates
+space is configured in a StyleGAN network. Meanwhile, hitting `Randomize` in Wekinator generates
 independent random numbers, which is equivalent to sampling from a *Uniform* distribution.
 
 The solution to this is to generate Normal random numbers and send them to Wekinator.
@@ -221,7 +221,8 @@ Here's a Max patch that does it all: on the left, sending `/psi` directly. In th
 the mouse as a toy 2D input into Wekinator. And on the right, sending the Gaussian random values for
 Wekinator outputs.
 
-![controlling Wekinator thru Max](images/stylegan/max-input.jpg?raw=true)
+![controlling Wekinator thru Max](/images/stylegan/max-input.jpg?raw=true)
+
 
 [Here](https://github.com/RVirmoors/cc1/blob/master/ml/stylegan/input.maxpat) is the patch. Again, you can
 accomplish the same thing in various software, I just find Max the easiest.
