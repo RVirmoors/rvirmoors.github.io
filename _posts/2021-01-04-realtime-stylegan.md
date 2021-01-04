@@ -19,7 +19,7 @@ a bunch of practical information on training your own deep learning image models
 the Python-Spout-TouchDesigner real-time connection. I follow most of his process in this guide.
 
 Now, in order to keep this text to a manageable size, I'll assume you've already trained your StyleGAN
-model, or you can always just use a pre-trained file. I'll be using StyleGAN2-ADA on Windows, but a similar
+model, or you can always just use a pre-trained net. I'll be using StyleGAN2-ADA on Windows, but a similar
 workflow should apply to any flavour of StyleGAN (or similar generative models) and other OS's.
 
 Also, before we begin, you should probably make sure you're running a GPU with CUDA 10.1 support. I haven't tried
@@ -56,8 +56,8 @@ Now, in order for the compilation to work in Windows, you need to set up Visual 
 choose to just install Build Tools, or get the whole VS Community package.
 
 Then, if you also have VS2019 installed, you need to edit
-`stylegan2-ada\dnnlib\tflib\custom_ops.py` and change the line to point directly to your VS2017 folder.
-Here, for VS Community:
+`stylegan2-ada\dnnlib\tflib\custom_ops.py` and change the corresponding line to point directly to
+your VS2017 folder. Here, for VS Community:
 
 ![editing custom_ops.py](images/stylegan/vs2017path.png?raw=true)
 
