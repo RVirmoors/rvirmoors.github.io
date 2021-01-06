@@ -5,11 +5,11 @@ title: Practical Python
 
 class: center, middle
 .title[Creative Coding and Software Design 1] 
-<br/>
+<br/><br/>
 .subtitle[Week 12: Practical Python]
 <br/><br/><br/><br/><br/><br/>
 .date[Jan 2021] 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 .note[Created with [{Liminal}](https://github.com/jonathanlilly/liminal) using [{Remark.js}](http://remarkjs.com/) + [{Markdown}](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) +  [{KaTeX}](https://katex.org)]
 
 ???
@@ -73,6 +73,14 @@ class: left
 
 ---
 
+## Editor
+
+---
+
+## Notebooks
+
+---
+
 name: lang
 class: left
 # Python language specifics
@@ -82,6 +90,31 @@ class: left
 name: modules
 class: left
 # Working with libraries (modules)
+
+Example code:
+```python
+import torch 		# import the whole library 
+import numpy as np 	# import the whole library, with an alias
+from torch.utils.data import DataLoader 	# import a specific class or function 
+
+# \[...\] 
+
+x = torch.Tensor(\[0.\]).numpy()
+x = np.add(x, \[1.\])
+d = DataLoader(dataset)
+```
+
+---
+
+## Installing modules
+
+---
+
+## Managing installs: virtual environments
+
+---
+
+## Libraries in TouchDesigner
 
 ---
 
