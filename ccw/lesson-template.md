@@ -35,12 +35,13 @@ name: introduction
 class: left
 #  Introduction
 
-This is a bare template.  For more details and a demonstration of features, see [{index.html}](index.html).        
+This is a bare template.
+
+Test link to [practical-python](../practical-python).
+Test Obsidian-style link: [[practical-python]].
 
 ---
 
 name: end       
 class: left
 #  Assignment
-        
----
