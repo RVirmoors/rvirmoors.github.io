@@ -9,6 +9,7 @@ title: Default Presentation
 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 ???
+
 The first thing we need to do is to install Python. Follow the link and download.
 
 --
