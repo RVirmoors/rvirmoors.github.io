@@ -23,7 +23,7 @@ class: left
 #Table of Contents        
       
 1. [Introduction](#introduction)
-1. [Conclusions](#conclusions)
+1. [Conclusions](#end)
 
         
 <!-- Comment out the next slide if you don't want the Table of Contents link -->         
@@ -38,7 +38,6 @@ class: left
 This is a bare template.
 
 Test link to [practical-python](../practical-python).
-Test Obsidian-style link: [[practical-python]].
 
 ---
 
