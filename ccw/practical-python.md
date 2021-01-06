@@ -118,8 +118,8 @@ d = DataLoader(dataset)
 
 ---
 
-name: lang
-class: links
+name: links
+class: left
 # Links
 
 https://jakevdp.github.io/WhirlwindTourOfPython/
