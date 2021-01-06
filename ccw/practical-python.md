@@ -4,11 +4,12 @@ title: Practical Python
 ---
 
 class: center, middle
-.title[Creative Coding and Software Design 1]     
+.title[Creative Coding and Software Design 1] 
+<br/>
 .subtitle[Week 12: Practical Python]
 <br/><br/><br/><br/><br/><br/>
 .date[Jan 2021] 
-<br/><br/>
+<br/><br/><br/><br/>
 .note[Created with [{Liminal}](https://github.com/jonathanlilly/liminal) using [{Remark.js}](http://remarkjs.com/) + [{Markdown}](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) +  [{KaTeX}](https://katex.org)]
 
 ???
@@ -21,7 +22,7 @@ class: left
 #Table of Contents        
       
 1. [Installing Python](#installing)
-2. [Three ways to program in Python](#three)
+2. [Three ways to access Python](#three)
 3. [Python language specifics](#lang)
 4. [Working with libraries (modules)](#modules)
 5. [Links](#links)
@@ -60,7 +61,15 @@ OSX bla
 
 name: three  
 class: left
-# Three ways to program in Python
+# Three ways to access Python
+
+1. From the **command line**
+2. In an **editor** / IDE
+3. In Jupyter **notebooks**
+
+---
+
+## Command line
 
 ---
 
@@ -81,3 +90,4 @@ class: links
 # Links
 
 https://jakevdp.github.io/WhirlwindTourOfPython/
+https://ml4a.github.io/classes/itp-F18/terminal-velocity/
