@@ -19,7 +19,7 @@ Author: Grigore Burloiu, UNATC
 ---
 name: toc
 class: left
-#Table of Contents        
+# ★ Table of Contents ★    
       
 1. [Installing Python](#installing)
 2. [Three ways to access Python](#three)
@@ -29,11 +29,23 @@ class: left
 
 ???
 
-This class is intended as a practical overview of the Python infrastructure you need to know and understand in order to make sense of existing open source codebases and to start to write your own scripts.
+This session is intended as a practical overview of the Python infrastructure you need to know and understand in order to make sense of existing open source codebases and to start to write your own scripts.
 
+The structure is a mix of practical, *shallow* notions 
+about the Python infrastructure and ecosystem, and
+a hands-on introduction to the language.
+
+In next week's session we will be delving into some more
+advanced features and some *deeper* ideas about
+"Pythonic" programming.
+
+But for now, the main takeaway I hope you'll get is that
+Python is a flexible, easy-to-use language, with multiple
+points of entry and applications, and which doesn't look that
+much different from the p5 / p5js you've used already.
           
 ---
-layout: true  .toc[[&#10023;](#toc)]
+layout: true  .toc[[★](#toc)]
         
 ---
 name: installing  
@@ -93,8 +105,8 @@ class: left
 
 Example code:
 ```python
-import torch 		# import the whole library 
-import numpy as np 	# import the whole library, with an alias
+import torch		# import the whole library 
+import numpy as np	# import the whole library, with an alias
 from torch.utils.data import DataLoader 	# import a specific class or function 
 
 # \[...\] 

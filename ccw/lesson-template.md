@@ -21,7 +21,7 @@ START OF CLASS NOTES HERE
 ---
 name: toc
 class: left
-#Table of Contents        
+# ★ Table of Contents ★     
       
 1. [Introduction](#introduction)
 1. [Conclusions](#end)
@@ -29,7 +29,7 @@ class: left
         
 <!-- Comment out the next slide if you don't want the Table of Contents link -->         
 ---
-layout: true  .toc[[&#10023;](#toc)]
+layout: true  .toc[[★](#toc)]
         
 ---
 name: introduction  
