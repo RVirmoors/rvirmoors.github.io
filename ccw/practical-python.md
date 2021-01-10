@@ -66,11 +66,12 @@ Python **3**.7+
 
 First, let's check if we already have Python installed on our system. Most modern code should work with version 3.7 or later.
 
-You can find out if your Python is 32 or 64 bit by running ```python```. Certain libraries, e.g. all modern deep learning frameworks, require 64 bit.
+You can find out if your Python is 32 or 64 bit by running "python". Certain libraries, e.g. all modern deep learning frameworks, require 64 bit.
 
 OSX bla
 
 --
+
 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 ???
