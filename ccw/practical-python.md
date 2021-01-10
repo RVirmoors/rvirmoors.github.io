@@ -51,23 +51,35 @@ layout: true  .toc[[★](#toc)]
 name: installing  
 class: left
 # Installing Python
+Check your installation
+
+```powershell
+python --version
+python
+```
+
+Python **3**.7+
+
+64 bit
+
+???
+
+First, let's check if we already have Python installed on our system. You need at least version 3.7.
+
+You can find out if your Python is 32 or 64 bit by running ```python```. Certain libraries, e.g. all modern deep learning frameworks, require 64 bit.
+
+OSX bla
+
+--
 
 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 ???
 
-The first thing we need to do is to install Python. Follow the link and download.
+You can follow the link to download a current version for your system.
 
---
 
-Check your installation: (should be at least version 3.7)
-
-```powershell
-python --version
-```
-
-???
-OSX bla
+Anaconda Unity Hub
 
 ---
 
