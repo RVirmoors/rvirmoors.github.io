@@ -68,7 +68,9 @@ First, let's check if we already have Python installed on our system. Most moder
 
 You can find out if your Python is 32 or 64 bit by running "python". Certain libraries, e.g. all modern deep learning frameworks, require 64 bit.
 
-OSX bla
+If you're on a Mac, it's likely you already have Python v2 installed, which won't do. There are tools that help you manage your Python installs, like Homebrew and Pyenv. And there's Anaconda, which can also manage your [libraries](#modules) -- think of it as an equivalent of Unity Hub maybe.
+
+So far I've been able to manage without these on my Windows PC (I do use Homebrew on the Mac), but you might find them useful.
 
 --
 
@@ -77,9 +79,6 @@ OSX bla
 ???
 
 You can follow the link to download a current version for your system.
-
-
-Anaconda Unity Hub
 
 ---
 
