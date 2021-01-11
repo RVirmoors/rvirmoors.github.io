@@ -51,7 +51,7 @@ layout: true  .toc[[★](#toc)]
 name: installing  
 class: left
 # Installing Python
-Check your version:
+check your version:
 
 ```powershell
 python --version
@@ -94,13 +94,63 @@ class: left
 
 ## Command line
 
+```powershell
+python
+
+```
+
+???
+
+You can use any interface such as Command Prompt or PowerShell (Windows), or the standard Terminal under Mac/Linux.
+
+This way of working comes in handy when you need to quickly test some functionality.
+
 ---
 
 ## Editor
 
+[Sublime Text](https://www.sublimetext.com/)
+
+[VS Code](https://code.visualstudio.com/) by ms
+
+[Atom](https://atom.io/) by github
+
+write your file(s) in an IDE, then run
+
+```powershell
+python myfile.py
+```
+
+???
+
+Python ships with its own IDE called "IDLE", which you should probably avoid.
+
 ---
 
 ## Notebooks
+
+[install Jupyter locally](https://jupyter.org/install)
+
+create/find notebooks [on Google Colab](https://colab.research.google.com/)
+
+share your .ipynb notebooks [on](https://github.com/fastai/fastbook) [github](https://github.com/RVirmoors/rolypoly/blob/master/py/rolypoly.ipynb)
+
+???
+
+This paradigm comes closest to the idea of *live coding*. You can execute code line-by-line or block-by-block, and meanwhile Jupyter/Colab retains your program's *state* and you can navigate your code in a non-linear, exploratory fashion.
+
+---
+
+### Rules of thumb
+
+<iframe src="https://www.youtube.com/embed/7jiPeIFXb6U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-   use IDEs to **develop** and **test** your code (several files, modules, dependencies...)
+-   use NOTEBOOKS to get results (Colab GPU) and to **communicate** them.
+
+...however:
+
+<iframe src="https://www.youtube.com/embed/9Q6sLbz37gk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
