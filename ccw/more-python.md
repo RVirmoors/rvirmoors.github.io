@@ -45,7 +45,7 @@ classes & OOP
 name: scripts       
 class: left
 #  Creating scripts
-create virtual environment
+prep: virtual environment
 
 download libraries: [pretty_midi](https://github.com/craffel/pretty-midi), [python-osc](https://github.com/attwad/python-osc)
 
