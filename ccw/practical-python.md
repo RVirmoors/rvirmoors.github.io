@@ -62,6 +62,8 @@ Python **3**.7+
 
 64 bit
 
+add to PATH
+
 ???
 
 First, let's check if we already have Python installed on our system. Most modern code should work with version 3.7 or later.

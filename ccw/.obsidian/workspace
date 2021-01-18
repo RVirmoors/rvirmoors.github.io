@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "practical-python.md",
+            "file": "more-python.md",
             "mode": "source"
           }
         }
@@ -69,12 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "practical-python.md",
+                "file": "more-python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -82,12 +82,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "more-python.md",
     "practical-python.md",
     "lesson-template.md",
+    "lesson-template 1.md",
     "practical-python 1.md",
     "Untitled.md"
   ]
