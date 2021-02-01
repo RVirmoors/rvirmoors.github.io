@@ -36,11 +36,6 @@
   src: url("../fonts/Neues_Bauen_Demo.ttf");
 }
 
-@font-face {
-  font-family: "sansB";
-  src: url("../fonts/SANSB___.TTF");
-}
-
 html {
   font-family: "Cabin", "PT Sans", Helvetica, Arial, sans-serif;
 }
