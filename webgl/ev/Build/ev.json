@@ -2,7 +2,7 @@
 "companyName": "Cristina Bodnarescu",
 "productName": "Evolution",
 "productVersion": "0.1",
-"dataUrl": "ev.data.unityweb",
+"dataUrl": "https://github.com/RVirmoors/rvirmoors.github.io/blob/master/webgl/ev/Build/ev.data.unityweb?raw=true",
 "wasmCodeUrl": "ev.wasm.code.unityweb",
 "wasmFrameworkUrl": "ev.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
