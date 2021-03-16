@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Controlling StyleGAN in real time
+title: controlling StyleGAN in real time
 ---
 
 Most applications of GANs turn up as exported images or videos. Turns out though, it's not that
-difficult to run inference in (almost) real time, as part of a reactive system -- here's how I did it.
+difficult to run inference in (almost) real time, as part of a reactive system. This is how I did it.
 
 I've always been a music guy, and decided a long time ago visuals weren't "my thing" beyond
 the occasional experiment. This is one of them: I trained my first GAN a few weeks

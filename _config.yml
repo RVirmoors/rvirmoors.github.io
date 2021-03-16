@@ -1,3 +1,16 @@
+theme:            minima
+minima:
+  skin:           rv
+  date_format:    "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: growlerpig
+    github:  rvirmoors
+
+show_excerpts: true # set to true to show excerpts on the homepage
+
+
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge #pygments
@@ -7,21 +20,16 @@ permalink:        pretty
 
 # Setup
 title:            rvirmoors
-tagline:          'Grigore Burloiu // Interactive music research + design.'
-description:      'dynamic music <a href="/2018/07/03/dynamic-music/">.</a>'
+description:      >
+  Creative code, interactive music.
+  
 url:              https://rvirmoors.github.io
 baseurl:          /
 
 author:
   name:           'Grigore Burloiu'
-  url:            https://github.com/RVirmoors
+  email:          grigore.burloiu@unatc.ro
 
-paginate:         5
-
-gems:             [jekyll-paginate]
-
-# Custom vars
-version:          2.1.0
-
-#github:
-#  repo:           https://github.com/poole/hyde
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

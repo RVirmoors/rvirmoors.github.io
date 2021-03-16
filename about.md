@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-order: 99
+mainmenu: false
 ---
 
 I teach at [UNATC / CINETic](https://cinetic.arts.ro/en/echipa/grigore-burloiu/) in Bucharest.

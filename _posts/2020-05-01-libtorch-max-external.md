@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adding PyTorch to Max/MSP externals
+title: adding PyTorch to Max/MSP externals
 ---
 
 GET: [GitHub](https://github.com/RVirmoors/simplemsptorch-)

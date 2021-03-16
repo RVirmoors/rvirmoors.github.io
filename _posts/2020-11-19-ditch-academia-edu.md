@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ditch Academia.edu!
+title: ditch Academia.edu!
 ---
 
 You know that scholarly friend you have who's way into for-profit companies circulating their work? Wait, there's no such person?
@@ -32,5 +32,4 @@ a summary as an [ISMIR LBD](https://program.ismir2020.net/lbd_422.html). You can
 
 I care a lot about this project and I do mean to keep developing and properly documenting it. But right now my focus is on completing the semester and staying sane.
 
-[^1]: (edit Dec '20) Actually, it ended up taking a couple weeks for my added papers to be approved by HAL. So if you're looking for a fast response,
-Zenodo might suit you better.
+[^1]: (edit Dec '20) Actually, it ended up taking a couple weeks for my added papers to be approved by HAL. So if you're looking for a fast response, Zenodo might suit you better.

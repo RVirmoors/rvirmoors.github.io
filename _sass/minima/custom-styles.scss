@@ -1,0 +1,31 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+@import url("../fonts/mono.css");
+@import url("../fonts/sans.css");
+@import url("../fonts/et-book.css");
+
+
+@font-face {
+    font-family: "neuesBauen";
+    src: url("../fonts/Neues_Bauen_Demo.ttf");
+  }
+
+.site-title {
+  font-family: "neuesBauen", sans-serif;
+  font-size: 3.5rem;
+}
+
+.site-header {
+  line-height: 90px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+blockquote {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-feature-settings: "aalt" /* or ss02 ? */
+}
