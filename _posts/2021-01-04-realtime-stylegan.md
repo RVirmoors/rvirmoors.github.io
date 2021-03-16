@@ -19,17 +19,17 @@ a bunch of practical information on training your own deep learning image models
 the Python-Spout-TouchDesigner real-time connection. I follow most of his process in this guide.
 
 Now, in order to keep this text to a manageable size, I'll assume you've already trained your StyleGAN
-model, or you can always just use a pre-trained net. I'll be using StyleGAN2-ADA on Windows, but a similar
+model, or you can always just use a pre-trained network. I'll be using StyleGAN2-ADA on Windows, but a similar
 workflow should apply to any flavour of StyleGAN (or similar generative models) and other OS's.
 
 Also, before we begin, you should probably make sure you're running a GPU with CUDA 10.1 support. I haven't tried
-this on a CPU-only system but I doubt it'd work. Also, you need Python 3.6 or later, 64 bit -- check the full
+this on a CPU-only system but I doubt it'd work. You need Python 3.6 or later, 64 bit -- check the full
 system requirements in the [StyleGAN repo](https://github.com/dvschultz/stylegan2-ada#requirements).
 
 ### Basic setup
 
 You'll want to work in a dedicated Python [virtual environment](https://docs.python.org/3/tutorial/venv.html),
-since StyleGAN uses Tensorflow version 1.x, and it's generally a good practice anyway.
+since StyleGAN uses Tensorflow version 1.x,[^3] and it's generally a good practice anyway.
 In Windows I open `cmd` in an empty folder and run:
 ```
     > python -m venv venv
@@ -232,6 +232,10 @@ And that's it! I'll update this post with a nicer demo vid someday, but for now
 twitter the minute I got it to work.
 
 
+
+
 [^1]: despite what the repo suggests, VS2019 is apparently not supported, due to TF1.4's reliance on CUDA 10.1 ... oh the joy of sorting through outdated dependencies.
 
 [^2]: Windows only. Mac users can probably do a similar trick using Syphon. Not sure what would work in Linux, let me know if you have pointers.
+
+[^3]: (edit Mar '21) The official PyTorch version of StyleGan-ADA has been released, and it appears to be superior on all accounts. I may do an update post in the future, but for now get started with [@dvschultz's repo](https://github.com/dvschultz/stylegan2-ada-pytorch) ([video](https://www.youtube.com/watch?v=14JBICMUGfA))
