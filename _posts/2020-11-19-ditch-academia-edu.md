@@ -3,7 +3,7 @@ layout: post
 title: ditch Academia.edu!
 ---
 
-You know that scholarly friend you have who's way into for-profit companies circulating their work? Wait, there's no such person?
+You know that scholarly friend you have who's way into for-profit companies circulating their work... Wait, there's no such person?
 So how come sites like Academia.edu and ResearchGate are still a thing?
 
 Granted, I'm way late on the delete-academia train. There have been brilliant posts like
@@ -12,8 +12,8 @@ Granted, I'm way late on the delete-academia train. There have been brilliant po
 [this](https://icietla.hypotheses.org/114) floating around for years now and, at least in my field, I rarely see people use
 those commercial gatekeeper repos.
 
-So the time finally came to get off my ass, delete my papers from Academia, and move them to an open archive. At this rate, in 10 years
-maybe I'll open an arXiv.org account!
+So the time finally came to get off my ass, remove my papers from Academia, and place them in an open archive. At this rate, in 10 years
+maybe I'll get an arXiv.org account!
 
 Now, where should you upload your work? [HAL](https://hal.archives-ouvertes.fr/) (CNRS France) and [Zenodo](https://zenodo.org/) (CERN Swiss)
 are great options, and as it happens, some of my papers were already on both sites. I went with HAL simply due to the
