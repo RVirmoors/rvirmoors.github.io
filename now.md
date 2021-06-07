@@ -6,8 +6,13 @@ mainmenu: false
 
 *This is what I'm currently working on. Idea taken from [Derek Sivers](https://nownownow.com/).*
 
-This academic year I was tapped to start teaching Game Development and Prototyping at our sister M.A. programme, Art of Game Design. In order to keep the impostor syndrome at bay (and against some well-meaning advice), I've challenged myself to make a game. I'll write a post when I have something tangible... for now, the nutshell is it's a 2D top-down interactive story, driven by a semi-generative narrative.
+Once again, the semester put pretty much all my projects on hold. I'll make a quick list of what I want to get done this Summer, to be crossed off and blogged about in due time:
 
-I'm still figuring out the mechanics, while going through all sorts of resources. I especially love digging through narrative design theory in places like [Emily Short's blog](https://emshort.blog/2019/01/08/mailbag-self-training-in-narrative-design/). Between this and trying out every game engine out there, the project should be done by 2050.
+- bitsy game
+- pd max shortcuts
+- rolypoly~ work (Max object, velocity, other models?)
+- violin concerto live electronics
+- generative narrative game (at least some rudimentary prototype)
+- hopefully some music
 
-I'm [reading](https://www.goodreads.com/growlerpig) Proust. I've [watched](https://www.criticker.com/profile/prowler/) like two movies over the whole last year.
+Let's hope looking back on this 3 months from now won't be *too* embarrassing.
