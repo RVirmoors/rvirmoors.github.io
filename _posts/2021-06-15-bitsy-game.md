@@ -3,9 +3,7 @@ layout: post
 title: i made a Bitsy game
 ---
 
-Here it is. Press (or swipe) up-down-left-right to play.
-
-*If you haven't played a Bitsy game before, maybe start with [a better one](https://itch.io/games/made-with-bitsy) to get a feel for the style.*
+Here it is. Press (or swipe) up-down-left-right to play.[^1]
 
 <iframe src="/public/albertineBorksy7.html" width="500" height="500"></iframe>
 
@@ -21,7 +19,7 @@ If, like me, you're not great at drawing, and you think pixel graphics might mak
 
 ![game main screen](/images/albertine/albertine.gif)
 
-An example of this is the horse-drawn carriage, and the scrolling hillside on the top third of the window. My partner thought these[^1] were some sort of jellyfish floating among waves. Oops.
+An example of this is the horse-drawn carriage, and the scrolling hillside on the top third of the window. My partner thought these[^2] were some sort of jellyfish floating among waves. Oops.
 
 The middle section is where the action takes place. There's two seats in the carriage, for the player and the titular Albertine. Also in the scene are Dr. Cottard and his (off-screen) wife, who cannot see you in the dark but sometimes have things to say.
 
@@ -57,4 +55,7 @@ Also, if I had to start over, I'd use [pixsy](https://ruin.itch.io/pixsy) to dra
 
 Oh well, this should be alright for a first attempt. I'd appreciate any feedback (on [twitter](https://twitter.com/growlerpig) or [itch](https://rvirmoors.itch.io/albertine)), since by now I've lost all perspective.
 
-[^1]: rather, the initial version, which you can see below, in the image with the watch sprite.
+
+[^1]: If you haven't played a Bitsy game before, maybe start with [a better one](https://itch.io/games/made-with-bitsy) to get a feel for the style.
+
+[^2]: rather, the initial version, which you can see below, in the image with the watch sprite.
