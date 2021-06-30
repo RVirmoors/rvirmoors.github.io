@@ -5,7 +5,7 @@ title: i made a Bitsy game
 
 Here it is. Press (or swipe) up-down-left-right to play.[^1]
 
-<iframe src="/public/albertineBorksy7.html" width="500" height="500"></iframe>
+<iframe src="/public/albertineBorksy7.html" width="960" height="500"></iframe>
 
 [Bitsy](https://ledoux.itch.io/bitsy) is a micro-game creation tool by Adam Le Doux. To get a feel for what it can do you could check out Claire Morwood's [tutorial](https://www.shimmerwitch.space/bitsyTutorial.html) or the excellent videos by [Dan Cox](https://www.youtube.com/playlist?list=PLlXuD3kyVEr5sF4iM2CszNt-fSVZDqxUm) and [Rob Duarte](https://www.youtube.com/playlist?list=PLNE1nfKgKSv7cR7QG7IIu-nEMHiVQsGNM).
 
