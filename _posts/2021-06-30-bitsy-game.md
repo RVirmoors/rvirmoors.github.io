@@ -5,17 +5,17 @@ title: i made a Bitsy game
 
 Here it is. Press (or swipe) up-down-left-right to play.[^1]
 
-<iframe src="/public/albertineBorksy7.html" width="960" height="500"></iframe>
+<iframe src="/public/albertineBorksy7.html" width="100%" height="500"></iframe>
 
 [Bitsy](https://ledoux.itch.io/bitsy) is a micro-game creation tool by Adam Le Doux. To get a feel for what it can do you could check out Claire Morwood's [tutorial](https://www.shimmerwitch.space/bitsyTutorial.html) or the excellent videos by [Dan Cox](https://www.youtube.com/playlist?list=PLlXuD3kyVEr5sF4iM2CszNt-fSVZDqxUm) and [Rob Duarte](https://www.youtube.com/playlist?list=PLNE1nfKgKSv7cR7QG7IIu-nEMHiVQsGNM).
 
 When I discovered Bitsy, I was excited by its all-in-one minimalism, which invites you to actually get a game done, instead of maybe struggling to get something more complex off the ground. Having started teaching game development this year, this seemed like a good way to ease the impostor syndrome. Along the way, I discovered Bitsy can also be a good medium for teaching and [dissemination](https://emmawinston.me/pathways-desire-lines/).
 
-Now, this game is very short and has 3 possible endings. If you haven't already, you can scroll up and play it before reading on.
+My game is very short and has 3 possible endings. If you haven't already, you can scroll up and play it before reading on.
 
 ### What are we looking at?
 
-If, like me, you're not great at drawing, and you think pixel graphics might make things easier, well, it's not that simple. I've found that this kind of art, while super fun (and apparently easy) to make, can be very deceptive. Things that look obvious to me once I've drawn them, are something completely different in someone else's perception. And of course, if I tell you what they're meant to be, then like me, you can't unsee them, so I need to find other fresh eyes to bounce off of.
+If, like me, you're not great at drawing, and you think pixel graphics might make things easier, well, it's not that simple. I've found that this kind of art, while super fun (and apparently easy) to make, can be deceptive. Things that look obvious to me once I've drawn them, are something completely different in someone else's perception. And of course, if I tell you what they're meant to be, then like me, you can't unsee them, so I'd need to find other fresh eyes to bounce off of.
 
 ![game main screen](/images/albertine/albertine.gif)
 
@@ -25,7 +25,7 @@ The middle section is where the action takes place. There's two seats in the car
 
 There are basically two things for you to do: wait for time to pass (by moving around [in] your seat), or get busy with Albertine (by bumping into her). Depending on how much, and when, you do these things, you get to one ending or another once the carriage reaches the station.
 
-The bottom section of the screen is meant to show the distance travelled, and the passage of time. Since, again, my pixel skills are questionable, I added an hourglass to be extra sure.
+The bottom section of the screen is meant to show the distance travelled, and the passage of time. Since, again, my pixelling skills are questionable, I added an hourglass to be extra sure.
 
 ### Wait, *what* are we doing?
 
@@ -53,7 +53,7 @@ The Bitsy community has contributed all sorts of interesting [hacks](https://git
 
 Also, if I had to start over, I'd use [pixsy](https://ruin.itch.io/pixsy) to draw my backgrounds. You can usually tell when a Bitsy game is done this way---getting 1-bit pixel art to look good is hard enough without having to draw it one 8x8 tile at a time.
 
-Oh well, this should be alright for a first attempt. I'd appreciate any feedback (on [twitter](https://twitter.com/growlerpig) or [itch](https://rvirmoors.itch.io/albertine)), since by now I've lost all perspective.
+Oh well, this should be alright for a first attempt. Figuring out how the game works is part of the challenge, which is maybe not that motivating, but might tickle some people's fancy. I'd appreciate any feedback (on [twitter](https://twitter.com/growlerpig) or [itch](https://rvirmoors.itch.io/albertine)), since by now I've lost all perspective.
 
 
 [^1]: If you haven't played a Bitsy game before, maybe start with [a better one](https://itch.io/games/made-with-bitsy) to get a feel for the style.
