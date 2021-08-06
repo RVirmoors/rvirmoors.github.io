@@ -11,9 +11,7 @@ layout: home
 <img src="images/me.png" alt="me by Matei Branea" style="width: 128px; float:right">
 
 My [research](https://cv.archives-ouvertes.fr/grigore-burloiu) is in interactive music, including [timing](https://github.com/RVirmoors/rolypoly) and [sync](https://github.com/RVirmoors/RVdtw-), [live electronics](https://github.com/RVirmoors/fred-arditti), and [sonification](https://hal.archives-ouvertes.fr/hal-03015480/document).
-I teach [creative coding for interactive art](/ccia) at [UNATC](//cinetic.arts.ro/en/echipa/grigore-burloiu/) / [ITPMA](//cinetic.arts.ro/en/itpma/). 
-
-Here's what I'm up to [now](/now).
+I teach [creative coding for interactive art](/ccia) at [UNATC](//cinetic.arts.ro/en/echipa/grigore-burloiu/) / [ITPMA](//cinetic.arts.ro/en/itpma/).
 
 <br/>
 
