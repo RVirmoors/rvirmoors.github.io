@@ -58,4 +58,4 @@ Oh well, this should be alright for a first attempt. Figuring out how the game w
 
 [^1]: If you haven't played a Bitsy game before, maybe start with [a better one](https://itch.io/games/made-with-bitsy) to get a feel for the style.
 
-[^2]: rather, the initial version, which you can see below, in the image with the watch sprite.
+[^2]: rather, the initial version, which you can see below, in the image with the ⌚ sprite.
