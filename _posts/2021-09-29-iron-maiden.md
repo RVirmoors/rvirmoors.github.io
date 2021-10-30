@@ -8,11 +8,11 @@ I got into music through Metallica and Iron Maiden, and there's nothing you or I
 ## why
 I started listening to Maiden in '99, just as Bruce and Adrian were rejoining the band, which turned out to be a great entry point. 21st century Maiden sounds very distinct from what came before, and beyond their massive following and Spinal Tap presentation there's some pretty idiosyncratic music.
 
-My favourite album of this era is 2006's *A Matter of Life and Death*. At least I think it is... I haven't listened to since I lost the edit/remaster I made 15 (!) years ago. It disappeared in a hard drive failure and the only trace is on my [defunct previous blog](https://web.archive.org/web/20080509073411/http://prowler.wordpress.com/2006/09/06/my-matter-of-life-and-death/).[^1] (if you somehow have a copy, please get in touch!!!)
+My favourite album of this era is 2006's *A Matter of Life and Death*. I made an edit/remaster of it and promptly lost it, 15 (!) years ago. It disappeared in a hard drive failure and the only trace is on my [defunct previous blog](https://web.archive.org/web/20080509073411/http://prowler.wordpress.com/2006/09/06/my-matter-of-life-and-death/).[^1] (if you somehow read this and have a copy, please get in touch!!!)
 
-Their next album came in 2010, and I found it to be their worst ever. By then I was head-deep into my mind-expanding MMus experience, busy digging the exquisite sounds of Feldman and あざらし so there was no time to waste on sub-par Maiden. 2015's *Book of Souls* was good for a couple of spins, and not much more. I've been *over* Maiden, and most metal, for a good while now.
+Their next album came in 2010, and I found it to be their worst ever. By then I was head-deep into my mind-expanding MMus experience, busy digging the exquisite sounds of Feldman and あざらし so there was no time to waste on sub-par Maiden. 2015's *Book of Souls* was good for a couple of spins, but not much more. I've been *over* Maiden, and most metal, for a good while now.
 
-And yet, this month I've been indulging a dive back into the Irons thanks to their new one, *Senjutsu.* And since the album contains some of the weak traits of modern Maiden (which I'll go over <a href="#what">below</a>), I surrendered to the 15-year time loop and did a full-on fan edit.
+And yet, this month I've been indulging a dive back into the Irons thanks to their new one, *Senjutsu.* And since the album contains some of the weak traits of modern Maiden (which I'll go over <a href="#what">below</a>), I dove back into the 15-year time loop and did a full-on fan edit.
 
 ## how
 There's two tools I didn't have in 2006: source separation and spectral repair. As you'll see, these (almost) allow you to remix music that you don't have the stems to.
@@ -74,7 +74,7 @@ I didn't touch this track, just a perfect Maiden closer.
 
 Of course the tracklist is altered, and I also whipped up a style transfery cover. 
 
-Here goes, enjoy...
+Here goes...
 
 ![days of future past cover](/images/maiden/days-of-future-past.png)
 
