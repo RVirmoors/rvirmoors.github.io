@@ -6,6 +6,8 @@ title: controlling StyleGAN in real time
 Most applications of GANs turn up as exported images or videos. Turns out though, it's not that
 difficult to run inference in (almost) real time, as part of a reactive system. This is how I did it.
 
+*(update Dec 2021) We did something similar for this year's Creative Coding, using the new(er) StyleGAN3-PyTorch model to [project a live video feed](https://rvirmoors.github.io/ccia/gans-interactive-inference).*
+
 I've always been a music guy, and decided a long time ago visuals weren't "my thing" beyond
 the occasional experiment. This is one of them: I trained my first GAN a few weeks
 ago, as part of my creative coding course @ [ITPMA](https://cinetic.arts.ro/en/itpma/). But the really cool part
@@ -20,10 +22,10 @@ the Python-Spout-TouchDesigner real-time connection. I follow most of his proces
 
 Now, in order to keep this text to a manageable size, I'll assume you've already trained your StyleGAN
 model, or you can always just use a pre-trained network. I'll be using StyleGAN2-ADA on Windows, but a similar
-workflow should apply to any flavour of StyleGAN (or similar generative models) and other OS's.
+workflow should apply to any flavour of StyleGAN (or similar generative models) and Linux.
 
 Also, before we begin, you should probably make sure you're running a GPU with CUDA 10.1 support. I haven't tried
-this on a CPU-only system but I doubt it'd work. You need Python 3.6 or later, 64 bit -- check the full
+this on a CPU-only system but I doubt it'd work. You need Python 3.6 or 3.7, 64 bit -- check the full
 system requirements in the [StyleGAN repo](https://github.com/dvschultz/stylegan2-ada#requirements).
 
 ### Basic setup
@@ -78,10 +80,10 @@ of saving them to disk. To do this we'll leverage the existing `generate.py` scr
 to look inside and understand it, if you haven't already.
 
 First let's deal with the streaming buffer. For this we'll use Spout[^2], via the
-[Spout for Python](https://github.com/Ajasra/Spout-for-Python) library. Now, the only way I've been able to
-make this work is by copying the `Spout-for-Python/Library` folder into our project, i.e. `stylegan2-ada/Library`.
+[Spout for Python](https://github.com/Ajasra/Spout-for-Python) library. Next we can copy
+the `Spout-for-Python/Library` folder into our project, i.e. `stylegan2-ada/Library` (or you can keep it in a subfolder and 
+do `sys.path.append('Spout-for-Python')`, like we do [here](https://rvirmoors.github.io/ccia/gans-interactive-inference#interactive-projection)).
 
-I'm sure this can be done cleaner but my python relative linking chops are not quite there.
 
 Also, don't forget to install Spout-for-Python's dependencies:
 
