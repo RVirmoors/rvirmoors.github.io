@@ -4,7 +4,6 @@ title: LibTorch for Min-DevKit
 ---
 
 A while ago I wrote [a post](/2020/05/01/libtorch-max-external/) showing how to embed PyTorch (via LibTorch) in a Max object using the standard Max SDK.
-
 Now, 2 years later (!), I'm finally getting around to building the [rolypoly](https://github.com/RVirmoors/rolypoly) Max object, and I've decided to start using the shiny new [Min](https://cycling74.github.io/min-devkit/) system, which provides a much smoother C++ experience for writing Max externals.
 
 And since the [Max 8.2 SDK update](https://github.com/Cycling74/max-sdk/blob/main/README-8.2-update.md), the process is fairly streamlined, as [this video](https://youtu.be/il5WblTBUgs) also shows.[^1] Here's how you do it:
