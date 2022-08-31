@@ -3,7 +3,7 @@ layout: post
 title: building a chatbot trained on fiction
 ---
 
-Creating an NLP dialogue agent that's finetuned on works of fiction is fairly easy to do in 2022, so don't be like 2020-me and make it harder than it needs to be.
+Making an NLP dialogue agent and finetuning it on various prose is fairly easy to do in 2022, so don't be like 2020-me and make it harder than it needs to be.
 
 There's all sorts of ways to use AI for text-based art - see [these slides](https://ghostweather.slides.com/lynncherny/deck-6b091e) by Lynn Cherny for a current overview. Our project entailed a sort of futuristic fortuneteller, trained on some speculative works, of whom one is directed to ask questions about the future.
 
