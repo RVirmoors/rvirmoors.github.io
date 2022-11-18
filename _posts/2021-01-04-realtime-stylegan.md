@@ -80,7 +80,7 @@ of saving them to disk. To do this we'll leverage the existing `generate.py` scr
 to look inside and understand it, if you haven't already.
 
 First let's deal with the streaming buffer. For this we'll use Spout[^2], via the
-[Spout for Python](https://github.com/Ajasra/Spout-for-Python) library. Next we can copy
+[Spout for Python](https://github.com/marenz2569/Spout-for-Python) library. Next we can copy
 the `Spout-for-Python/Library` folder into our project, i.e. `stylegan2-ada/Library` (or you can keep it in a subfolder and 
 do `sys.path.append('Spout-for-Python')`, like we do [here](https://rvirmoors.github.io/ccia/gans-interactive-inference#interactive-projection)).
 
