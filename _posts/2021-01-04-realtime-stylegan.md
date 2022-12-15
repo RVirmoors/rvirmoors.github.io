@@ -3,6 +3,9 @@ layout: post
 title: controlling StyleGAN in real time
 ---
 
+*(update Dec 2022) I've updated the below to PyTorch/SG3 for a workshop, slides are [here](https://rvirmoors.github.io/ccia/slides/stylegan-workshop).*
+
+
 Most applications of GANs turn up as exported images or videos. Turns out though, it's not that
 difficult to run inference in (almost) real time, as part of a reactive system. This is how I did it.
 
