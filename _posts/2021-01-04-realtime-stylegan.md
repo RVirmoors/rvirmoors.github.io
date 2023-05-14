@@ -3,13 +3,12 @@ layout: post
 title: controlling StyleGAN in real time
 ---
 
-*(update Dec 2022) I've updated the below to PyTorch/SG3 for a workshop, slides are [here](https://rvirmoors.github.io/ccia/slides/stylegan-workshop).*
-
-
 Most applications of GANs turn up as exported images or videos. Turns out though, it's not that
 difficult to run inference in (almost) real time, as part of a reactive system. This is how I did it.
 
 *(update Dec 2021) We did something similar for this year's Creative Coding, using the new(er) StyleGAN3-PyTorch model to [project a live video feed](https://rvirmoors.github.io/ccia/gans-interactive-inference).*
+
+*(update Dec 2022) I updated the below to PyTorch/SG3 for a workshop, slides are [here](https://rvirmoors.github.io/ccia/slides/stylegan-workshop).*
 
 I've always been a music guy, and decided a long time ago visuals weren't "my thing" beyond
 the occasional experiment. This is one of them: I trained my first GAN a few weeks

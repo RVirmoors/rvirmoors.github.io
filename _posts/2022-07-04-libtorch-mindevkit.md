@@ -52,6 +52,10 @@ Now, to test that it works properly, edit `source/projects/yourProject/yourProje
 
 Then open Max and, when you create an `yourProject` object you should see a random tensor in the console. Now you're ready to move forth into [Min](https://cycling74.github.io/min-devkit/)+[LibTorch](https://pytorch.org/cppdocs/frontend.html) greatness!
 
+*(update May 2023) I recorded a video going through these steps:*
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/kgi2dcfzrEY" title="Adding PyTorch to a new Max MSP external" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [^1]: As with my initial Max SDK guide, these instructions are Windows-specific. A similar process should work for Mac, but I haven't tried it yet.
 
 [^2]: Depending on your version of LibTorch, the exact names of the libraries [may change](https://medium.com/@boonboontongbuasirilai/building-pytorch-c-integration-libtorch-with-ms-visual-studio-2017-44281f9921ea). Check your `libtorch/lib` folder contents.
