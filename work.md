@@ -15,7 +15,7 @@ hide_header: true
 
 **NOVA** | [web](https://novanova.ro/)
 - interactive sound installation (design, w/ [Dorin Cucicov](https://proiectb.org/), [RIZI](https://rizidesign.ro/))
-- **INTUITION** ([Marius Jurca](https://spam-index.com/artists/13m10j-marius-jurca/)) - [web](https://www.novanova.ro/intuition.html) [1](https://www.radioromaniacultural.ro/sectiuni-articole/stiinta/dimensiunea-stiintifica-a-artei-marius-jurca-intuitia-de-la-festivalul-nova-id35245.html)
+- **INTUITION** ([Marius Jurca](https://spam-index.com/artists/13m10j-marius-jurca/)) - [web](https://www.novanova.ro/intuition.html) [1](https://www.radioromaniacultural.ro/sectiuni-articole/stiinta/dimensiunea-stiintifica-a-artei-marius-jurca-intuitia-de-la-festivalul-nova-id35245.html) [code](https://github.com/RVirmoors/intuition)
   - interactive installation (code)
 - Goethe Institut, Bucharest RO
 
