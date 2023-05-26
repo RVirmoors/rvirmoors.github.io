@@ -7,7 +7,7 @@ hide_header: true
 
 ## 2023
 
-**THE BRIDGE** ([Adrian Damian](https://www.adrian-damian.com/)) | [web](https://www.adrian-damian.com/thebridge)
+**THE BRIDGE** ([Adrian Damian](https://www.adrian-damian.com/)) | [web](https://www.adrian-damian.com/thebridge) [code](https://github.com/RVirmoors/the_bridge)
 - interactive installation (sound interaction design, w/ [Mihai Dobre](https://www.discogs.com/artist/545702-Mihai-Dobre))
 - Prague Quadrennial of Performance Design and Space, Prague CZ
 
