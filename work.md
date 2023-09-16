@@ -5,7 +5,17 @@ order: 10
 hide_header: true
 ---
 
+## 2024
+
+**COLLECTIVE CADENCE** | [web](https://modina.eu/projects/collective-cadence/)
+- artist residency, w/ [Simona Deaconescu](https://www.tangajdance.com/)
+- Trafó, Budapest HU
+
 ## 2023
+
+**SOFT TOUCH** ([Alexandru Berceanu](https://cinetic.arts.ro/en/echipa/alexandru-berceanu/)) 
+- interactive installations
+- Anca Poterasu Gallery, Bucharest RO
 
 **THE BRIDGE** ([Adrian Damian](https://www.adrian-damian.com/)) | [web](https://www.adrian-damian.com/thebridge) [code](https://github.com/RVirmoors/the_bridge)
 - interactive installation (sound interaction design, w/ [Mihai Dobre](https://www.discogs.com/artist/545702-Mihai-Dobre))
@@ -23,7 +33,7 @@ hide_header: true
 - interactive performance (interaction & sound design)
 - Goethe Institut, Bucharest RO
 
-**WHITE IMPRINT** ([Alexandru Berceanu](https://cinetic.arts.ro/en/echipa/alexandru-berceanu/)) | [web](https://www.mobius-gallery.com/exhibitions/59-white-imprint-alexandru-berceanu-constantin-basica-grigore-burloiu-sebastian-comanescu/) [code](https://github.com/RVirmoors/fiction-chatbot)
+**WHITE IMPRINT** Alexandru Berceanu | [web](https://www.mobius-gallery.com/exhibitions/59-white-imprint-alexandru-berceanu-constantin-basica-grigore-burloiu-sebastian-comanescu/) [code](https://github.com/RVirmoors/fiction-chatbot)
 - interactive installations (AI text and vision, w/ Dorin Cucicov)
 - Mobius Gallery, Bucharest RO
 

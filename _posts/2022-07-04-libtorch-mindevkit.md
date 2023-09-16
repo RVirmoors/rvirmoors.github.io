@@ -4,7 +4,7 @@ title: LibTorch for Min-DevKit
 ---
 
 A while ago I wrote [a post](/2020/05/01/libtorch-max-external/) showing how to embed PyTorch (via LibTorch) in a Max object using the standard Max SDK.
-Now, 2 years later (!), I'm finally getting around to building the [rolypoly](https://github.com/RVirmoors/rolypoly) Max object, and I've decided to start using the shiny new [Min](https://cycling74.github.io/min-devkit/) system, which provides a much smoother C++ experience for writing Max externals.
+Now, 2 years later (!), I'm finally getting around to building the [rolypoly~](https://github.com/RVirmoors/rolypoly) Max object, and I've decided to start using the shiny new [Min](https://cycling74.github.io/min-devkit/) system, which provides a much smoother C++ experience for writing Max externals.
 
 And since the [Max 8.2 SDK update](https://github.com/Cycling74/max-sdk/blob/main/README-8.2-update.md), the process is fairly streamlined, as [this video](https://youtu.be/il5WblTBUgs) also shows.[^1] Here's how you do it:
 
@@ -52,7 +52,7 @@ Now, to test that it works properly, edit `source/projects/yourProject/yourProje
 
 Then open Max and, when you create an `yourProject` object you should see a random tensor in the console. Now you're ready to move forth into [Min](https://cycling74.github.io/min-devkit/)+[LibTorch](https://pytorch.org/cppdocs/frontend.html) greatness!
 
-*(update May 2023) I recorded a video going through these steps:*
+*(update May 2023) I recorded a video guide:*
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/kgi2dcfzrEY" title="Adding PyTorch to a new Max MSP external" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
