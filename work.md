@@ -13,9 +13,9 @@ hide_header: true
 
 ## 2023
 
-**SOFT TOUCH** ([Alexandru Berceanu](https://cinetic.arts.ro/en/echipa/alexandru-berceanu/)) 
+**SOFT TOUCH** ([Alexandru Berceanu](https://cinetic.arts.ro/en/echipa/alexandru-berceanu/)) | [web](https://www.radioromaniacultural.ro/sectiuni-articole/produs-de-radio-romania/atingeri-usoare-o-instalatie-video-imersiva-si-interactiva-despre-efemeritatea-si-fragilitatea-memoriei-podcast-id40841.html) [video](https://youtu.be/JRK1RNXh1FE) [code](https://github.com/RVirmoors/soft-touch)
 - interactive installations
-- Anca Poterasu Gallery, Bucharest RO
+- Malmaison, Bucharest RO
 
 **THE BRIDGE** ([Adrian Damian](https://www.adrian-damian.com/)) | [web](https://www.adrian-damian.com/thebridge) [code](https://github.com/RVirmoors/the_bridge)
 - interactive installation (sound interaction design, w/ [Mihai Dobre](https://www.discogs.com/artist/545702-Mihai-Dobre))
