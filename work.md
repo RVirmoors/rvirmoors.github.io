@@ -14,7 +14,7 @@ hide_header: true
 ## 2023
 
 **SOFT TOUCH** ([Alexandru Berceanu](https://cinetic.arts.ro/en/echipa/alexandru-berceanu/)) | [web](https://www.radioromaniacultural.ro/sectiuni-articole/produs-de-radio-romania/atingeri-usoare-o-instalatie-video-imersiva-si-interactiva-despre-efemeritatea-si-fragilitatea-memoriei-podcast-id40841.html) [video](https://youtu.be/JRK1RNXh1FE) [code](https://github.com/RVirmoors/soft-touch)
-- interactive installations
+- interactive installations (w/ [Constantin Basica](http://www.constantinbasica.com/))
 - Malmaison, Bucharest RO
 
 **THE BRIDGE** ([Adrian Damian](https://www.adrian-damian.com/)) | [web](https://www.adrian-damian.com/thebridge) [code](https://github.com/RVirmoors/the_bridge)
@@ -47,7 +47,7 @@ hide_header: true
 - live electronics (computer music design, w/ [Patricia Kopatchinskaja](https://www.festivalenescu.ro/patricia-kopatchinskaja/))
 - George Enescu International Festival, Bucharest RO
 
-**LOST INTERFERENCES** (Alexandru Berceanu, [Constantin Basica](http://www.constantinbasica.com/)) | [online](http://lostinterferences.eu/) [web](https://ars.electronica.art/newdigitaldeal/en/lost-interferences/) [video](https://youtu.be/xJG_SS4t9MA) 
+**LOST INTERFERENCES** (Alexandru Berceanu, Constantin Basica) | [online](http://lostinterferences.eu/) [web](https://ars.electronica.art/newdigitaldeal/en/lost-interferences/) [video](https://youtu.be/xJG_SS4t9MA) 
 - transmedia performance/installation (web development)
 - Ars Electronica Bucharest Garden, AT/RO
 
