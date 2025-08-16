@@ -214,7 +214,7 @@ public partial class HigherLows : Indicator
 public class TightBO : Strategy
 {
     [Parameter("30 Day Performance Minimum"), NumericRange(0.01, 100)]
-    public double PerformanceMinimum { get; set; } = 50.0;
+    public double PerformanceMinimum { get; set; } = 20.0;
 
     [Parameter("ADR Minimum"), NumericRange(0.01, 100)]
     public double AdrMinimum { get; set; } = 5.0;
