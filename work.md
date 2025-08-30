@@ -5,11 +5,18 @@ order: 10
 hide_header: true
 ---
 
+## 2025
+**ULTIMA PIESĂ** ([Constantin Basica](http://www.constantinbasica.com/)) | [web](https://www.festivalenescu.ro/ro/festivalul-george-enescu/concerte/ultima-piesa-concert-imersiv-sincretic-1779979835) [code](https://github.com/RVirmoors/tempest)
+- interactive sound installation
+- George Enescu International Festival, Bucharest RO
+
 ## 2024
 
-**COLLECTIVE CADENCE** | [web](https://modina.eu/projects/collective-cadence/)
+**COLLECTIVE CADENCE** | [web](https://modina.eu/projects/collective-cadence/) [code](https://github.com/RVirmoors/collective-cadence) [video](https://youtu.be/licNP2FtAa0)
 - artist residency, w/ [Simona Deaconescu](https://www.tangajdance.com/)
-- Trafó, Budapest HU
+- [Trafó, Budapest HU](https://trafo.hu/en/programs/tanc_modina_collective_cadence)
+- 2024 showcases at [CNDB RO](https://cndb.ro/en/new_events/collective-cadence/), [Tanzhaus DE](https://tanzhaus-nrw.de/en/event/2024/10/collective-cadence), [Kino Šiška SI](https://cofestival.si/2024/en/simona-deaconescu-in-grigore-burloiu-kolektivna-intonacija-2024/)
+- 13 Sep 2025: [Centro Danza Matadero ES](https://www.centrodanzamatadero.es/actividades/fiver25)
 
 ## 2023
 
