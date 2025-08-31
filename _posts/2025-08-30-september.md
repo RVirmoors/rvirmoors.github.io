@@ -3,7 +3,7 @@ layout: post
 title: busy September
 ---
 
-The month of September is usually when things get moving, but this year a whole bunch of exciting events with great people have lined up. In the hope that I won't jinx them by listing them here, I wrote this post to convince myself that they're actually happening!
+The month of September is usually when things get moving, but especially this year a whole bunch of exciting events with great people have lined up. In the hope that I won't jinx them by listing them here, I wrote this post to convince myself that they're actually happening!
 
 [<img src="/images/itpma-admitere-01.png" alt="itpma admission instagram" style="width: 128px; float:left; padding: 4px">](https://www.instagram.com/p/DN0CAl02nXp/)
 
@@ -17,6 +17,6 @@ If that wasn't enough, when I come back I'll have a couple of days to prepare fo
 
 [<img src="/images/cardiacs-lsd.png" alt="cardiacs lsd" style="width: 128px; float:right; padding: 4px">](https://alphabet-business-concern.bandcamp.com/album/lsd)
 
-Finally, the one thing in September I'm most looking forward to has nothing to do with me. It's [the release of the long-awaited final (?) album](https://inews.co.uk/culture/music/cardiacs-tim-died-album-impossible-finish-3838088) from my favourite band, [Cardiacs](https://www.cardiacs.net/). If you haven't heard them, my obsession started with these [two](https://youtu.be/OxhuQWKwbqY) [videos](https://youtu.be/N5QYijFfOaQ).[^1] I've been hopeful but quite nervous about what this new album would turn out like, but much of my apprehension was put to rest when it was revealed that [Mike Vennart](https://vennart.bandcamp.com/) (ex Oceansize) sings on it. It looks like they'll be touring with him on vocals, which judging by his performance [singing Dirty Boy](https://youtu.be/sYT1oo4tICE), should be an unmissable event!
+Finally, the one thing in September I'm most looking forward to has nothing to do with me. It's [the release of the long-awaited final (?) album](https://inews.co.uk/culture/music/cardiacs-tim-died-album-impossible-finish-3838088) from my favourite band, [Cardiacs](https://www.cardiacs.net/). If you don't know them, my obsession started with these [two](https://youtu.be/OxhuQWKwbqY) [videos](https://youtu.be/N5QYijFfOaQ).[^1] I've been hopeful but quite nervous about what this new album would turn out like, but much of my apprehension was put to rest when it was revealed that [Mike Vennart](https://vennart.bandcamp.com/) (ex Oceansize) sings on it. It looks like they'll be touring with him on vocals, which judging by his performance [singing Dirty Boy](https://youtu.be/sYT1oo4tICE), should be an unmissable gig!
 
 [^1]: I got into Cardiacs in early 2008, a few months before leader Tim Smith fell ill, putting all band activities on indefinite halt. Including, obviously, the November '08 London show which I'd already got my ticket for... I can't express how much Tim's music has meant for me, and it's so wonderful that many others have been keeping it alive.
