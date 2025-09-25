@@ -13,8 +13,8 @@ hide_header: true
 ## 2024
 
 **COLLECTIVE CADENCE** | [web](https://modina.eu/projects/collective-cadence/) [code](https://github.com/RVirmoors/collective-cadence) [video](https://youtu.be/licNP2FtAa0)
-- artist residency, w/ [Simona Deaconescu](https://www.tangajdance.com/)
-- [Trafó, Budapest HU](https://trafo.hu/en/programs/tanc_modina_collective_cadence)
+- lecture performance w/ [Simona Deaconescu](https://www.tangajdance.com/)
+- artist residency @ [Trafó, Budapest HU](https://trafo.hu/en/programs/tanc_modina_collective_cadence)
 - 2024 showcases at [CNDB RO](https://cndb.ro/en/new_events/collective-cadence/), [Tanzhaus DE](https://tanzhaus-nrw.de/en/event/2024/10/collective-cadence), [Kino Šiška SI](https://cofestival.si/2024/en/simona-deaconescu-in-grigore-burloiu-kolektivna-intonacija-2024/)
 - 2025-09-13: [Centro Danza Matadero ES](https://www.centrodanzamatadero.es/actividades/fiver25)
 
